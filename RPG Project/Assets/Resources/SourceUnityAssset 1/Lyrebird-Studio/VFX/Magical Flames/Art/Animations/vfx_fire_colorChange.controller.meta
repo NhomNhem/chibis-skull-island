@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f64e6962a04b86a49ad25323bec7fc8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293962
+  packageName: VFX Magical Flames
+  packageVersion: 1.0
+  assetPath: Assets/Lyrebird-Studio/VFX/Magical Flames/Art/Animations/vfx_fire_colorChange.controller
+  uploadId: 686856
