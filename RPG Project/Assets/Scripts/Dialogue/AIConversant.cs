@@ -16,6 +16,8 @@ namespace RPG.Dialogue
             return CursorType.Dialogue;
         }
 
+
+
         public bool HandleRaycast(PlayerController callingController)
         {
             if (dialogue == null)

@@ -232,6 +232,8 @@ namespace RPG.Shops
             return CursorType.Shop;
         }
 
+
+
         public bool HandleRaycast(PlayerController callingController)
         {
             if (Input.GetMouseButtonDown(0))
