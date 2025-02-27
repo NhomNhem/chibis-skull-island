@@ -1,0 +1,4 @@
+repository "RPG Project@unity_FD0C5DEB81350A29C645@cloud"
+  path "/"
+    br "/main"
+    co "/main"
